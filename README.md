@@ -40,7 +40,6 @@ local MEZOS = {
 - 🎨 Advanced NUI interfaces with modern frameworks
 - 🔄 Seamless QBCore ↔ ESX conversions
 - 🗄️ Database architecture & optimization
-- 🔐 Secure anti-cheat & permission systems
 
 </td>
 <td width="50%" valign="top">
