@@ -73,10 +73,7 @@ I focus on **clean code**, **modular design**, and **player experience**. Every 
 
 ## 📫 Contact
 
-💼 **Discord:** `mezos.dev`
-🌐 **Portfolio:** [https://mohamedaderak.vercel.app](https://mohamedaderak.vercel.app)
-📧 **Email:** `contact@mezos.dev` *(optional)*
-🐙 **GitHub:** [github.com/mezos](https://github.com/mezos)
+💼 **Discord:** `_mezos`
 
 ---
 
