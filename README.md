@@ -249,7 +249,7 @@ Whether you need a single script or a complete server overhaul, I bring expertis
 
 **💬 Discord:** `_mezos`  
 **⏰ Response Time:** Usually within 24 hours  
-**🌍 Time Zone:** GMT+0 (Morocco)
+**🌍 Time Zone:** GMT+1 (Morocco)
 
 <br>
 
